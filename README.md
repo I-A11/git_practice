@@ -1,6 +1,6 @@
 # Project Title
 
-Practice Git & Githum
+Practice Git & Github
 
 
 ## Description
